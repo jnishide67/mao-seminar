@@ -3,7 +3,11 @@
 GitHub Pages機能を使って公開されたページは[こちら](https://elmas3.github.io/mao-seminar/)から閲覧できます。
 https://elmas3.github.io/mao-seminar/
 
-# ディレクトリ構成
+＃メンバー</s></s></s></s></s></s></s> </s>
+真央教授</s></s></s></s></s></s></s> </s>
+エルマ</s></s></s></s></s></s></s> </s>
+若葉</s></s></s></s></s></s></s></s>
+＃ディレクトリ構成
 ```
 seminar/
 ├─ index.html        # トップページ
@@ -17,3 +21,4 @@ seminar/
 
 # 備考
 本リポジトリは「わかばちゃんと学ぶGit使い方入門」の練習用として使用するリポジトリです。
+
